@@ -1,3 +1,6 @@
+#Fibonacci's FizzBuzz
+#Codewars.com/kata/57bf599f102a39bb1e000ae5/python
+
 def fibs_fizz_buzz(n):
     fib_sequence=[1, 1]
     for i in range(n-2):
